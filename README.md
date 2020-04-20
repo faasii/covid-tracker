@@ -7,6 +7,7 @@ Features :-
 3.Total deaths count
 4.Total discharged count
 5.Active patience count
+6.works with termux
 
 Usage :-
 1.With argument
